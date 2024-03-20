@@ -8,4 +8,4 @@ echo "Install build dependencies"
 sudo apt-get install python3 meson libwayland-dev wayland-protocols libegl-dev \
                      libgles-dev libvulkan-dev libdrm-dev libgbm-dev \
                      libxkbcommon-dev libudev-dev libpixman-1-dev libseat-dev \
-                     hwdata clang llvm
+                     hwdata clang llvm libwayland-server0 libwayland-server++1
