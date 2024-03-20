@@ -1,0 +1,11 @@
+@./settings.rsp
+--file
+wlroots-module.h
+--methodClassName
+Wlroots
+--namespace
+Wlroots
+--output
+../sources
+--test-output
+../tests
