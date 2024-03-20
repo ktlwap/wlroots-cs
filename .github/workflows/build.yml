@@ -10,3 +10,5 @@ jobs:
           submodules: true
       - name: Setup
         run: bash setup.sh
+      - name: Build
+        run: bash build.sh
