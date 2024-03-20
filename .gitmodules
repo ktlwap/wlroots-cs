@@ -1,0 +1,4 @@
+[submodule "submodules/wlroots"]
+	path = submodules/wlroots
+	url = https://github.com/ktlwap/wlroots.git
+	branch = 0.17
